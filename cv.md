@@ -7,10 +7,11 @@
 <body>
     <section>
         <header>
+            <img src="фотка.jpg">
             <h1> Shurygin Kirill </h1>
             <p> > phone: +79174235405 </p>
             <p> > telegram: @krakik </p>
-            <p> > discord: krakik9737 </p>
+            <p> > discord: krakik9737 (Krakik(@Krakikk))</p>
         </header>
     </section>
     <section>
@@ -19,8 +20,34 @@
     </section>
     <section>
         <h2> Skills </h2>
-        <p> 
-
+        <h3> Coding languages </h3>
+        <p> HTML, Python, JS </p>
+        <h3> Version control sistem </h3>
+        <p> Git </p>
+    </section>
+    <section>
+        <h2> Code examples </h2> 
+        <pre><code> Java Script:
+        function multiply(a, b){
+            return a * b
+        }
+        </pre></code>
+        </p>
+    </section>
+    <section>
+        <h2> Job expirience, projects </h2>
+        <p> My [GitHub project](https://github.com/Krakikk/rsschool-cv) </p>
+    </section>
+    <section>
+        <h2> Education </h2>
+        <p> HTML course [(YouTube)](https://www.youtube.com/watch?v=_R5a-Kc0pRc&list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO)</p>
+        <p> RS School [JS/Front-end RU Course] (https://rs.school/courses/javascript-ru)       
+        <p> Cource of Programming and algoritmization at [USPTU](https://rusoil.net/?ysclid=mcuaha1jl2230234213) </p>
+    </section>
+    <section>
+        <h2> Languages level </h2>
+        <p> English: B2, had language practice at USPTU, curricular included english classes, such as Phisics, chemistry, programming etc.</p>
+        <p> Russian: C2 </p>
 </body>
 </html>
 ```
