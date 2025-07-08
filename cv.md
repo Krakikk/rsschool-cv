@@ -1,4 +1,5 @@
-![photo](фотка.jpg)
+<img src="фотка.jpg" width="30%" alt="photo">
+
 # Shurygin Kirill
 
 > phone: +79174235405
@@ -14,7 +15,9 @@ Hello, i'm Kirill, desingner, artist and fron-end developer. My target has alway
 ## Skills
 ### Coding languages
 
-HTML, Python, JS
+- HTML
+- Python
+- JS
 
 ### Version control sistem
 
