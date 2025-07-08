@@ -1,10 +1,12 @@
 
-!(фотка.jpg)git add
+!(фотка.jpg)
 
 # Shurygin Kirill
 
 > phone: +79174235405
+
 > telegram: @krakik
+
 > discord: krakik9737 (Krakik(@Krakikk))
 
 ## About me
