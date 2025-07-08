@@ -1,4 +1,4 @@
-![photo](rsschool-cv/фотка.jpg)
+![photo](фотка.jpg)
 # Shurygin Kirill
 
 > phone: +79174235405
