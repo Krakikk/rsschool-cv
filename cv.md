@@ -1,53 +1,47 @@
-```markdown
-<!DOCTYPE html>
-<head>
-    <meta charset="UTF-8">
-    <title>CV</title>
-</head>
-<body>
-    <section>
-        <header>
-            <img src="фотка.jpg">
-            <h1> Shurygin Kirill </h1>
-            <p> > phone: +79174235405 </p>
-            <p> > telegram: @krakik </p>
-            <p> > discord: krakik9737 (Krakik(@Krakikk))</p>
-        </header>
-    </section>
-    <section>
-        <h2> About me </h2>
-        <p> Hello, i'm Kirill, desingner, artist and fron-end developer. My target has always been improving myself and learn something new everyday and doing smarter not harder. My strong side is that I've been making things prettyer my whole life through drawings, designs and cites. I know color theory, composition rules etc. by heart. Thou my programmer expirience not much big, I`m up to lern new thigs. </p>
-    </section>
-    <section>
-        <h2> Skills </h2>
-        <h3> Coding languages </h3>
-        <p> HTML, Python, JS </p>
-        <h3> Version control sistem </h3>
-        <p> Git </p>
-    </section>
-    <section>
-        <h2> Code examples </h2> 
-        <pre><code> Java Script:
-        function multiply(a, b){
-            return a * b
-        }
-        </pre></code>
-        </p>
-    </section>
-    <section>
-        <h2> Job expirience, projects </h2>
-        <p> My [GitHub project](https://github.com/Krakikk/rsschool-cv) </p>
-    </section>
-    <section>
-        <h2> Education </h2>
-        <p> HTML course [(YouTube)](https://www.youtube.com/watch?v=_R5a-Kc0pRc&list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO)</p>
-        <p> RS School [JS/Front-end RU Course] (https://rs.school/courses/javascript-ru)       
-        <p> Cource of Programming and algoritmization at [USPTU](https://rusoil.net/?ysclid=mcuaha1jl2230234213) </p>
-    </section>
-    <section>
-        <h2> Languages level </h2>
-        <p> English: B2, had language practice at USPTU, curricular included english classes, such as Phisics, chemistry, programming etc.</p>
-        <p> Russian: C2 </p>
-</body>
-</html>
-```
+
+!(фотка.jpg)git add
+
+# Shurygin Kirill
+
+> phone: +79174235405
+> telegram: @krakik
+> discord: krakik9737 (Krakik(@Krakikk))
+
+## About me
+
+Hello, i'm Kirill, desingner, artist and fron-end developer. My target has always been improving myself and learn something new everyday and doing smarter not harder. My strong side is that I've been making things prettyer my whole life through drawings, designs and cites. I know color theory, composition rules etc. by heart. Thou my programmer expirience not much big, I`m up to lern new thigs.
+
+## Skills
+### Coding languages
+
+HTML, Python, JS
+
+### Version control sistem
+
+Git
+
+## Code examples
+    ``` 
+     Java Script:
+            function multiply(a, b){
+                return a * b
+            } 
+    ``` 
+            
+## Job expirience, projects
+
+My [GitHub project](https://github.com/Krakikk/rsschool-cv)
+
+## Education
+
+HTML course [(YouTube)](https://www.youtube.com/watch?v=\_R5a-Kc0pRc&list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO)
+
+RS School [JS/Front-end RU Course](https://rs.school/courses/javascript-ru)
+
+Cource of Programming and algoritmization at [USPTU](https://rusoil.net/?ysclid=mcuaha1jl2230234213)
+
+## Languages level
+
+> English: B2, had language practice at USPTU, curricular included english classes, such as Phisics, chemistry, programming etc.
+
+> Russian: C2
